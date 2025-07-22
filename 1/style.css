@@ -1,5 +1,12 @@
-h1{
+*{
     color: gray;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: #121212;
 }
 
 h2{
@@ -10,5 +17,14 @@ h2{
     background-color: aliceblue;
 }
 #economy{
-    background-color: blueviolet;
+    background-color: beige;
+}
+
+.creation-date{
+    color: #121212;
+}
+
+.container{
+    width: 1366px;
+    margin: 0 auto 0 auto;
 }
