@@ -13,3 +13,20 @@ header li{
     width: 1264 px;
     margin: 0, auto, 0, auto;
 }
+
+.creation-date{
+    color: #121212;
+}
+
+.articles{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.articles article img{
+    height: 180px;
+}
+
+.articles article{
+    width: 33%;
+}
