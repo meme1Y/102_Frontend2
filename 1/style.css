@@ -73,3 +73,39 @@ section h2,
     text-decoration: underline;
     background-color: blue;
 }
+
+.section h2{
+    color: blue;
+}
+
+#sports{
+    background-color: aqua
+}
+
+#sports .articles article a{
+    background-color: #009432;
+}
+
+#economy{
+    background-color: #f8f59f;
+}
+
+#economy .articles article a{
+    background-color: #fff91a;
+}
+
+#entertainment{
+    background-color:antiquewhite;
+}
+
+#entertainment .articles article a{
+    background-color:deeppink;
+}
+
+#tecnology{
+    background-color:cadetblue;
+}
+
+#tecnology .articles article a{
+    background-color:cornflowerblue;
+}
