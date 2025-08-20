@@ -109,3 +109,8 @@ section h2,
 #tecnology .articles article a{
     background-color:cornflowerblue;
 }
+
+img {
+  width: 270px;   /* largura */
+  height: 300px;  /* altura */
+}
